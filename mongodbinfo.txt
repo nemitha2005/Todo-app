@@ -1,0 +1,9 @@
+MongoDB Atlas Cluster https://www.mongodb.com/atlas
+
+Cluster Details
+Cluster Name: Cluster0
+Username: todoListApp
+Password: iPYQ_kum%5Z@jy7
+
+Connect to Cluster0
+mongodb+srv://todoListApp:<db_password>@cluster0.b8y8ld4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
